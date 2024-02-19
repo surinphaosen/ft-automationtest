@@ -1,0 +1,1 @@
+newman run mycollationapi.postman_collection.json -r htmlextra
